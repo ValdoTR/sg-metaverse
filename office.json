@@ -202,6 +202,12 @@
          "id":188,
          "name":"from-networking",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":79,
@@ -309,12 +315,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/sg\/sg2020\/sgstudentnetworking"
-                }, 
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
+                 "value":"\/@\/sg\/sg2020\/networking#from-office"
                 }],
          "type":"tilelayer",
          "visible":true,
